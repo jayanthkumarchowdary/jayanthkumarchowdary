@@ -1,14 +1,47 @@
-- 👋 Hi, I’m @jayanthkumarchowdary #wanderer
-- 👀 I’m interested in learning new things both about life and cyber Security  ...
-- 🌱 I’m currently a 3rd year Btech student in cyber security specilaization ...
-- 💞️ I am developing my skills by completing tasks on Tryhackme, Hackerrank , leetcode...
-- 📫 How to reach me, https://www.linkedin.com/in/jayanth-kumar-chowdary-62b714284
+# 👋 Hey there, I'm Jayanth Kumar Chowdary — aka @jayanthkumarchowdary  
+### 🧭 Wanderer | 🔐 Cyber Security Enthusiast | 💡 Lifelong Learner
 
-- 😄 Pronouns: He/Jay
-- ⚡ Fun fact:🚀 NASA uses GitHub!
-That’s right — even rocket scientists use GitHub. NASA has an official GitHub account where they share real open-source software used for space missions, robotics, and climate data!
-So technically... your code and NASA's code might live on the same platform. 🚀✨
+---
 
+## 💻 About Me
+
+- 🎓 I'm currently in my 3rd year of B.Tech, specializing in **Cyber Security**.
+- 🌱 Passionate about learning — whether it's tech, life, or the weird facts in between.
+- 🕵️‍♂️ Constantly improving my skills through platforms like:
+  - [TryHackMe](https://tryhackme.com)
+  - [HackerRank](https://www.hackerrank.com)
+  - [LeetCode](https://leetcode.com)
+- 🔐 Fascinated by ethical hacking, threat analysis, and all things security.
+- 😄 Pronouns: He/Him or just call me Jay!
+
+---
+
+## 🛠️ Tech Stack & Interests
+
+- 🐧 Linux | 💻 Python | 🕸️ Web Security
+- 🧠 Problem Solving | 🔍 CTFs | 🛡️ Pen Testing
+- ☁️ Cloud Security (exploring AWS & Azure)
+- 📚 Always learning something new — currently diving into **Reverse Engineering** & **Malware Analysis**.
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/jayanth-kumar-chowdary-62b714284)
+- 📨 Want to collab, talk tech or just say hi? Drop me a message there!
+
+---
+
+## ⚡ Fun Fact
+
+> 🚀 **NASA uses GitHub!**  
+> Yes, seriously — NASA has an [official GitHub](https://github.com/nasa) where they open-source real software used in **space missions, robotics, and climate data**.  
+>  
+> So… your code and NASA’s code might just be repo-neighbors. How cool is that? 🌌✨
+
+---
+
+Thanks for stopping by! Feel free to explore my repos and reach out if you're into security, coding, or curious convos over coffee ☕.
 
 <!---
 jayanthkumarchowdary/jayanthkumarchowdary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
