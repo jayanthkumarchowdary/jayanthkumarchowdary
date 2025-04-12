@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Jayanth Kumar Chowdary — aka @jayanthkumarchowdary  
+# 👋 Hey there, I'm Jayanth Kumar Chowdary — @jayanthkumarchowdary  
 ### 🧭 Wanderer | 🔐 Cyber Security Enthusiast | 💡 Lifelong Learner
 
 ---
@@ -28,6 +28,7 @@
 ## 📫 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/jayanth-kumar-chowdary-62b714284)
+- 📸 [Instagram](https://www.instagram.com/_mr.chowdary?igsh=ZzFpeWx1Z2pvbnZl)
 - 📨 Want to collab, talk tech or just say hi? Drop me a message there!
 
 ---
