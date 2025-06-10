@@ -5,12 +5,12 @@
 
 ## 💻 About Me
 
-- 🎓 I'm currently in my 3rd year of B.Tech, specializing in **Cyber Security**.
+- 🎓 I'm currently in my final year of B.Tech, specializing in **Cyber Security**.
 - 🌱 Passionate about learning — whether it's tech, life, or the weird facts in between.
 - 🕵️‍♂️ Constantly improving my skills through platforms like:
-  - [TryHackMe](https://tryhackme.com)
-  - [HackerRank](https://www.hackerrank.com)
-  - [LeetCode](https://leetcode.com)
+  - [TryHackMe](https://tryhackme.com/p/AgentSpyd3r)
+  - [HackerRank](https://www.hackerrank.com/profile/jkchowdary786)
+  - [LeetCode](https://leetcode.com/u/JayanthKumarChowdary/)
 - 🔐 Fascinated by ethical hacking, threat analysis, and all things security.
 - 😄 Pronouns: He/Him or just call me Jay!
 
